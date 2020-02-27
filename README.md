@@ -54,29 +54,34 @@ Should the new image not fit, just change the ".subsample" value under the comme
 Would appreciate on the other hand if the ABOUT section could be left as is.. :stuck_out_tongue:
 
 
-###  Compatability
+### Compatability
 Tested on both Windows and Linux (Debian, Ubuntu, Kali, Parrot).\
 Should work perfectly fine on both platforms as long as you have the Cryptography installed..\
 Also i do not think this will work on Python 2.x\
 For more information on Cryptography, please visit: https://cryptography.io/  
 For more information on TKinter, please visit: https://docs.python.org/3/library/tk.html
 
-##Q&A
+## Q&A
 Q: **I have forgotten my secret key, is there a workaround?**  
-A: No.. Lose or forget the key, and your FU%¤ED.. Sorry
+A: No.. Lose or forget the key, and your FU%¤ED.. Sorry!
 
 Q: **Can i use it without a secret key?**  
-A: No you can not. The secret key is part of the decryption process. It uses the secret word to create the encryption.
+A: No you can not. The secret key is part of the encryption process. It uses the secret word to create the encryption string.
 
 Q: **I want to use this on Windows, can i get it as EXE?**
 A: Yes! You need to compile the .py file with a code freezer tool such as "PyInstaller".
 
+Q: **It says "Wrong Key"?**
+A: Well, the key used in the first place have most likely been changed. If you remember the secret keyword, you could try to generate the key all over again with the same keyword.
+
+Q: **Can i modify it to my needs?**
+A: Sure! I believe in a free world. Go nuts!  
+I ask that you keep the About popup as it is though as i did spend some time on this.  
+At least mention me as a source somewhere..... :pray:
+
 Q: **I used your stupid software to encrypt all my passwords, and now it wont decrypt any of them!!**
 A: Well, as i am sure this will most likely happen at some point, i did warn you!  
 Always read the code before you use it..
-
-Q: **It says "Wrong Key"?**
-A: Well, the key used in the first place have most likely been changed. If you remember the secret keyword, you could try to generate the key all over again with the same keyword.
 
 Q: **Can i have your home address so i can beat you up for ruining my passwords?**
 A: LuLz! No..
