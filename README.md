@@ -35,7 +35,11 @@ Before you can start to encrypt you need to create a KEY file.\
 This is done from the "File" menu.\
 It will ask you for a secret keyword, type it in and hit OK.\
 Now, do NOT forget this keyword!!\
-If you encrypt lots of text and forget the keyword or need to re-create the keyfile you will NOT be able to get the encrypted information back without the correct key.
+If you encrypt lots of text and forget the keyword, or need to re-create the keyfile but cannot remember what secrey keyword you used? you will NOT be able to get the encrypted information back without the correct key.
+
+You may also notice that the encrypted string is not the same should you encrypt the same word over again.  
+This is normal, every encryption will get a uniqe encryption string no matter if its the same word.  
+You will be able to decrypt them back to the same word.
 
 Now that you have the KEY file, you can start to encrypt text.
 
