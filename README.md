@@ -1,5 +1,5 @@
 # Encrypter-Decrypter GUI v0.1
-Python Script to encrypt and decrypt text strings based on a secret user determined key.
+Python Script to encrypt and decrypt text strings based on a secret user determined key.  
 This GUI version is based on the CLI version that you can find here:\
 https://github.com/janbrekke/Encrypter-Decrypter
 
