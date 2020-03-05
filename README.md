@@ -6,7 +6,7 @@ https://github.com/janbrekke/Encrypter-Decrypter
 
 ### Prerequisites
 
-You will need some modules to make this work..\
+If not using the EXE file, you'll need some modules to make this work..\
 These are defined in the "requirements.txt" file.
 
 ```
@@ -63,13 +63,21 @@ For more information on TKinter, please visit: https://docs.python.org/3/library
 
 ## Q&A
 Q: **I have forgotten my secret key, is there a workaround?**  
-A: No.. Lose or forget the key, and your FU%¤ED.. Sorry!
+A: No.. Lose or forget the key, and your FU%Â¤ED.. Sorry!
 
 Q: **Can i use it without a secret key?**  
 A: No you can not. The secret key is part of the encryption process. It uses the secret word to create the encryption string.
 
 Q: **I want to use this on Windows, can i get it as EXE?**  
 A: Yes! You need to compile the .py file with a code freezer tool such as "PyInstaller".
+   Or you can find it in the "Bin" folder.
+   REMEMBER to keep the RES folder together with the EXE file.
+
+Q: **It says "Failed to execute script"**
+A: The EXE file should be in a folder. Then in this same folder there should be another folder called "res".
+   If this res folder is not there the EXE refuses to start.
+   ALSO if any of the 3 items "logo.png, icon.png, icon.ico" inside the res folder is missing, the EXE will refuse to start.
+   So don't seperate the EXE and the res folder. They are lovers <3
 
 Q: **It says "Wrong Key"?**  
 A: Well, the key used in the first place have most likely been changed. If you remember the secret keyword, you could try to generate the key all over again with the same keyword.
