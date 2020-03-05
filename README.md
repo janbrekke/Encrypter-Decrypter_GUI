@@ -73,7 +73,7 @@ A: Yes! You need to compile the .py file with a code freezer tool such as "PyIns
    Or you can find it in the "Bin" folder.
    REMEMBER to keep the RES folder together with the EXE file.
 
-Q: **It says "Failed to execute script"**
+Q: **It says "Failed to execute script"**\
 A: The EXE file should be in a folder. Then in this same folder there should be another folder called "res".
    If this res folder is not there the EXE refuses to start.
    ALSO if any of the 3 items "logo.png, icon.png, icon.ico" inside the res folder is missing, the EXE will refuse to start.
