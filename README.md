@@ -26,7 +26,7 @@ First download the ZIP, or clone the repository using:
 ```
 git clone https://github.com/janbrekke/Encrypter-Decrypter_GUI.git
 ```
-Then start the python file:
+Then start the python file (with python3):
 
 ```
 python encrypt-decrypt_GUI.py
@@ -34,7 +34,7 @@ python encrypt-decrypt_GUI.py
 
 ### Usage EXE file
 Well, just download ALL the content in the bin folder, or just grab the ZIP file you see above.\
-Double click the exe file and violã!\
+Double click the exe file and violã!
 
 Before you can start to encrypt you need to create a KEY file.\
 This is done from the "File" menu.\
