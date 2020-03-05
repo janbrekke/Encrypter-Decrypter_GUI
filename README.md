@@ -19,7 +19,7 @@ To install the Prerequisites, simply run the following command:
 ```
 pip install -r requirements.txt
 ```
-### Usage
+### Usage Pyton file
 Shouldn't be to hard..  
 First download the ZIP, or clone the repository using:
 
@@ -31,6 +31,11 @@ Then start the python file:
 ```
 python encrypt-decrypt_GUI.py
 ```
+
+### Usage EXE file
+Well, just download ALL the content in the bin folder, or just grab the ZIP file you see above.\
+Double click the exe file and violã!\
+
 Before you can start to encrypt you need to create a KEY file.\
 This is done from the "File" menu.\
 It will ask you for a secret keyword, type it in and hit OK.\
