@@ -94,7 +94,7 @@ I ask that you keep the About popup as it is though as i did spend some time on 
 At least mention me as a source somewhere..... :pray:
 
 Q: **I used your stupid software to encrypt all my passwords, and now it wont decrypt any of them!!**  
-A: Well, as i am sure this will most likely happen at some point, i did warn you!  
+A: Well, as i am sure at least one person manage to screw this up, i did warn you!  
 Always read the code before you use it..
 
 Q: **Can i have your home address so i can beat you up for ruining my passwords?**  
